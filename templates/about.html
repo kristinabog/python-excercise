@@ -1,4 +1,33 @@
 {% extends "base.html" %}
 {% block content %}
-    <h1>About Page</h1>
+
+
+    <h2>{{ page_title }}</h2>
+    <p>
+        Watercolor paint is a translucent art medium.
+        Watercolor is basically a colored pigment in a water-soluble binder.
+        The paint dissolves when you add water allowing the pigment to spread with a brush.
+    </p>
+
+    {% for member in company %}
+
+        {{ loop.index }}
+
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h3>{{ member.name }}</h3>
+                <p>
+                    {{ member.description }}
+                </p>
+            </div>
+        <div class="col-md-5">
+                <img src="{{ member.image_source }}" alt="featurette-image image-responsive">
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+    {% endfor %}
+
+
 {% endblock %}

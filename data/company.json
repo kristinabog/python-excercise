@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Watercolor",
+        "description": "Watercolor (American English) or watercolour (British English; see spelling differences), also aquarelle (French, from Italian diminutive of Latin aqua water), is a painting method in which the paints are made of pigments suspended in a water-based solution.",
+        "image_source": "https://cdn.pixabay.com/photo/2020/01/25/03/39/watercolour-4791738_960_720.jpg"
+    },
+    {
+        "name": "The paint",
+        "description": "Watercolor paint consists of four principal ingredients: a pigment; gum arabic as a binder to hold the pigment in suspension; additives like glycerin, ox gall, honey, and preservatives to alter the viscosity, hiding, durability or color of the pigment and vehicle mixture; and evaporating water, as a solvent used to thin or dilute the paint for application.",
+        "image_source": "https://c0.anyrgb.com/images/4/308/fire-fox-illustration-animal-watercolor-painting-backgrounds-art-paint-paintings-painted-image-creativity.jpg"
+    },
+    {
+        "name": "Use",
+        "description": "The traditional and most common support—material to which the paint is applied—for watercolor paintings is watercolor paper. Other supports include papyrus, bark papers, plastics, vellum, leather, fabric, wood and watercolor canvas (coated with a gesso that is specially formulated for use with watercolours).",
+        "image_source": "https://storage.needpix.com/rsynced_images/watercolour-4074963_1280.jpg"
+    }
+]
