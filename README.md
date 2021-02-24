@@ -7,7 +7,7 @@ Technologies used: HTML, CSS, JS, Python, Flask, JSON
 
 Deployed @ Heroku:
 
-https://git.heroku.com/watercolor-flask-app-kb.git
+https://watercolor-flask-app-kb.herokuapp.com/
 
 
 Educational purposes only
