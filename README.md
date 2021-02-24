@@ -1,9 +1,10 @@
-## Python excercise - Watercolor paint art
+## Python Excercise - Watercolor Paint Art
 
-This is a python excercise with instructions followed from Code Institute's Full Stack Software Development course.
-I chose a different theme and customized it in my own way. I added different content and images than the original excercise.
+This is an excercise to become familiar with using Python, Flask and JSON. 
+Followed instructions from Code Institute's Full Stack Software Development course.
+I customized it in my own way and I added different content and images than the original excercise.
 
-Technologies used: HTML, CSS, JS, Python, Flask, JSON 
+Languages & Technologies used: HTML, CSS, JS, Python, Flask, JSON 
 
 Deployed @ Heroku:
 
