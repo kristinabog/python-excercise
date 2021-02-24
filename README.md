@@ -5,7 +5,9 @@ I chose a different theme and customized it in my own way. I added different con
 
 Technologies used: HTML, CSS, JS, Python, Flask, JSON 
 
-Deployed @ Heroku 
+Deployed @ Heroku:
+
+https://git.heroku.com/watercolor-flask-app-kb.git
 
 
 Educational purposes only
