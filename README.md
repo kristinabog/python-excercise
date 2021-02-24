@@ -11,6 +11,7 @@ Header background: https://i.pinimg.com/564x/b3/e1/e9/b3e1e9aa6f67a003e8aeeb8734
 About page:
 https://cdn.pixabay.com/photo/2020/01/25/03/39/watercolour-4791738_960_720.jpg
 https://p0.pikist.com/photos/898/903/watercolor-painting-art-paper-brush-a-variety-of.jpg
+https://storage.needpix.com/rsynced_images/watercolour-4074963_1280.jpg
 
 Content about page:
 https://en.wikipedia.org/wiki/Watercolor_painting
